@@ -7,6 +7,6 @@
 gcc server.c -o webserver -lws2_32
 
 
-# Project Title
+# Socket Implenment
 
 ![Example Image](model.jpg)
